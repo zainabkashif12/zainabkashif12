@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Zainab Kashif 👋
+IT Graduate focused on **Backend Development, Database Systems, and Applied AI/ML**.
 
-<!--
-**zainabkashif12/zainabkashif12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Core Tech Stack
+* **Languages:** Python, SQL, JavaScript
+* **Databases:** PostgreSQL, Oracle, MySQL
+* **Frameworks & Tools:** Flask / FastAPI, Git, Postman, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 What I Do
+* 🏗️ Designing robust relational schemas, triggers, and optimized queries.
+* 🚀 Building backend REST APIs and lightweight web services.
+* 🔍 Developing computer vision and machine learning pipelines.
+
+---
+
+### 🌐 Connect With Me
+* **LinkedIn:** www.linkedin.com/in/
+zainab-kashif-3b918b293
+
+* **Email:** zainabkashif980@gmail.com
